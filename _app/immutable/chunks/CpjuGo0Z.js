@@ -1,1 +1,0 @@
-import{p as r}from"./D3r-zMaG.js";import{s as t}from"./V18y3UQC.js";const e={get error(){return r.error},get params(){return r.params},get status(){return r.status},get url(){return r.url}};t.updated.check;const p=e;export{p};
